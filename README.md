@@ -22,7 +22,7 @@ My favourite recipe:
 - Ultimate frisbee
 - Ski
 
-~The pineapple pizza dude.~
+*The pineapple pizza dude.*
 
 ![Metrics](https://metrics.lecoq.io/C0ZEN?template=classic&languages=1&introduction=1&activity=1&followup=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&introduction.title=true&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis)
 
