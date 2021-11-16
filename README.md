@@ -16,6 +16,9 @@ My favourite recipe:
 > Fighting is cool, but smart people let others do the dirty work and earn money safely.
 ― Shakes and Fidget
 
+> Just do it.
+― Nike
+
 ## Sports that I like
 
 - Badminton
