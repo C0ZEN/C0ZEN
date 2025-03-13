@@ -3,7 +3,7 @@
 My favourite recipe:
 
 - Pug + SCSS
-- TypeScript + RxJS + Lodash
+- TypeScript + RxJS + es-toolkit
 - Clean-code
 - A lot of sugar
 - Jest is the cherry
