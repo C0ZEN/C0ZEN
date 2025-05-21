@@ -24,7 +24,8 @@ My favourite recipe:
 - Badminton
 - Ultimate frisbee
 - Ski
-- Cross-fit
+- Cross-training
+- Running 🐢
 
 *The pineapple pizza dude.*
 
